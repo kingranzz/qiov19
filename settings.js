@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['628xxx']
+global.owner = ['6282393734303']
 global.botname = 'Alwaysaqioo'
 global.namaowner = 'Alwaysaqioo'
 global.baileys1 = require('@whiskeysockets/baileys') 
@@ -14,10 +14,10 @@ global.eggsnya = '_'
 global.location = '_'
 global.url1 = 'https://www.instagram.com/Alwaysaqioo' //gausah diganti
 global.url2 = 'https://t.me/@Alwaysaqioo' //
-global.adana = '628XX'
+global.adana = '6282393734303'
 global.aqris = 'https://telegra.ph/file/1701509104e6531c8a4d1.jpg'
-global.aovo = '628XX'
-global.agopay = '628XX'
+global.aovo = '6282393734303'
+global.agopay = '6282393734303'
 global.mess = { 
 wait: `test`
 }
